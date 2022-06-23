@@ -23,7 +23,7 @@ const Header = () => {
               <a href='/'>My Sales</a>
             </li>
             <li>
-              <button onClick={logoutHandler}>Logout</button>
+              <button onClick={logoutHandler}>Logoutyyy</button>
             </li>
           </ul>
         </nav>
